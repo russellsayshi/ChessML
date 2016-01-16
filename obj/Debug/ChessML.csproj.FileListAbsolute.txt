@@ -1,2 +1,10 @@
 F:\Git\chess-ml\ChessML\bin\Debug\ChessML.exe.config
 F:\Git\chess-ml\bin\Debug\ChessML.exe.config
+F:\Git\chess-ml\bin\Debug\ChessML.exe
+F:\Git\chess-ml\bin\Debug\ChessML.pdb
+F:\Git\chess-ml\obj\Debug\ChessML.csprojResolveAssemblyReference.cache
+F:\Git\chess-ml\obj\Debug\ChessML.Main.resources
+F:\Git\chess-ml\obj\Debug\ChessML.Properties.Resources.resources
+F:\Git\chess-ml\obj\Debug\ChessML.csproj.GenerateResource.Cache
+F:\Git\chess-ml\obj\Debug\ChessML.exe
+F:\Git\chess-ml\obj\Debug\ChessML.pdb
