@@ -1,0 +1,2 @@
+F:\Git\chess-ml\ChessML\bin\Debug\ChessML.exe.config
+F:\Git\chess-ml\bin\Debug\ChessML.exe.config
